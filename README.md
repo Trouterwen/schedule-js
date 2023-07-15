@@ -19,9 +19,9 @@ When loading the page you are presented with a list of time sections that you ar
 
 ## Links and comments
 
-Here is a link to the working code: 
+Here is a link to the working code: https://trouterwen.github.io/schedule-js/
 
-Here is a link to the github repo:
+Here is a link to the github repo: https://github.com/Trouterwen/schedule-js
 
-Here is a link to this READ.Me file: 
+Here is a link to this READ.Me file: https://github.com/Trouterwen/schedule-js/blob/main/README.md
 
